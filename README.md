@@ -10,9 +10,13 @@ Welcome to my Data Structures and Algorithms (DSA) practice repository! This col
 3. [2D Arrays](#2d-arrays)
 4. [2D Vectors](#2d-vectors)
 5. [Searching](#searching)
-6. [Sorting](#sorting) - 1. Insertion Sort 2. Bubble Sort 3. Selection Sort
+6. [Sorting](#sorting) 
 7. [Char & Strings](#char&Strings)
 8. [Pointers](#pointers)
+9.  [Recursion](#Recursion)
+10. [Backtracking](#Backtracking)
+11. [LinkedList](#LinkedList)
+12. [Stack](#Stack)
 
 
 
